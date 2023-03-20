@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jacob
-- 👀 I’m interested in chess,steam gaming, and sports
+- 👀 I’m interested in chess, steam gaming, and sports
 - 🌱 I’m currently learning how to code on the odin project, along with business at my local community college
 - 📫 How to reach me -> Email: jacobstanbrough@gmail.com
