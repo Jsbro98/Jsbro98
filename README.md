@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacob
 - 👀 I’m interested in steam gaming, sports, roller skating, and programming.
 - 📚 I started learning programming through The Odin Project and then moved on to MOOC.fi Java.
-- 💾 I’m growing my programming skillset in my own time, currently invested in C++.
-- 🕴️ Activley working on an associates degree at my local community college.
+- 💾 I’m growing my programming skillset in my own time.
+- 🕴️ Activley working on an associates degree at my local community college. Graduating Summer 2026!
 - 📫 How to reach me -> Email: jacobstanbrough@gmail.com.
